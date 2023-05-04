@@ -25,3 +25,6 @@ The last part of the notebook build_model.ipynb contains the code for inference.
 The input and output demo files are under the directory demos/
 
 ### Download link
+http://www.avlbench.opennlplab.cn/download
+
+The user need to submit an application via the Google form provided in the link above for downloading the dataset.
