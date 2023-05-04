@@ -19,7 +19,7 @@ python train.py
 ```
 
 ### Inference
-The last part of the notebook build_model.ipynb contains the code for inference.
+Run the code in inference.ipynb to do inference.
 
 ### Demo Files
 The input and output demo files are under the directory demo/
