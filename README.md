@@ -22,7 +22,7 @@ python train.py
 The last part of the notebook build_model.ipynb contains the code for inference.
 
 ### Demo Files
-The input and output demo files are under the directory demos/
+The input and output demo files are under the directory demo/
 
 ### Download link
 http://www.avlbench.opennlplab.cn/download
